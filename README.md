@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student at the Federal University of São Carlos (UFSCar) in Brazil. Since I was introduced to the development world, a spark has ignited within me, making me fall in love with the art of creating solutions to the real world using my techlogy knowledge.<br><br>Currently, I work as a front-end developer at a company (CATI Jr.) supported by the university, allows me to apply my programming skills in real-world projects, further fueling my passion for technology.</p>
+<p align="left">I'm a Computer Science student at the Federal University of São Carlos (UFSCar) in Brazil. Since I was introduced to the development world, a spark has ignited within me, making me fall in love with the art of creating solutions to the real world using my techlogy knowledge.<br><br>Currently, I work as a front-end developer at a company (CATI Jr.) supported by the university, which allows me to apply my programming skills in real-world projects, further fueling my passion for technology.</p>
 
 ###
 
