@@ -1,111 +1,74 @@
-<h1 align="center">Hi, I'm Lucas! 👋😃</h1>
+<h1 align="center">Hi, I'm Lucas 👋</h1>
 
-###
+<p align="center">
+  <b>Full-Stack Developer</b> · Computer Science @ UFSCar · São Carlos, Brazil
+</p>
 
-<h3 align="left">About Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/devlucasmartinez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dev.lucasmartinez@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-###
+## About me
 
-<p align="left">I'm a Computer Science student at the Federal University of São Carlos (UFSCar) in Brazil. Since I was introduced to the development world, a spark has ignited within me, making me fall in love with the art of creating solutions to the real world using my technology knowledge.<br><br>Currently, I work as a full-stack developer, building products end to end, from the database and APIs to the interfaces people actually use.</p>
+I'm a Computer Science student at UFSCar and a full-stack developer. I build products end to end, from the database and APIs to the interfaces people actually use, mostly with **Java/Spring Boot**, **TypeScript/React/Next.js** and **PostgreSQL**.
 
-###
+## 🩺 Currently building: Gastro Guide
 
-<h3 align="left">🩺 Currently Building: Gastro Guide</h3>
+A clinical platform for gastroenterology and hepatology, **already used daily by several doctors**.
 
-###
+- Electronic health records with disease-specific clinical forms
+- Patient management and scheduling
+- Built full-stack with Spring Boot, Next.js, PostgreSQL and Docker
 
-<p align="left"><b>Gastro Guide</b> is a clinical platform for gastroenterology and hepatology, and it is already part of the daily routine of several doctors. It brings together electronic health records with disease-specific clinical forms, patient management and scheduling. I'm building it full-stack with <b>Spring Boot</b>, <b>Next.js</b>, <b>PostgreSQL</b> and <b>Docker</b>.</p>
+## 💼 Experience
 
-###
+| Role | Where | When | Highlights |
+|---|---|---|---|
+| **AWS Student Builder – Campus Leader** | AWS | Apr 2026 – Oct 2026 | One of 200 students selected nationwide; ran hands-on cloud workshops (EC2, S3, IAM, Lambda) at UFSCar |
+| **Mobile Developer Intern** | ASTRAL | Nov 2025 – Jan 2026 | Built a React Native app for the construction industry that **cut on-site progress reporting time by 92%** |
+| **Full-Stack Developer** | CATI Jr. | Sep 2024 – Nov 2025 | Delivered web and mobile apps for external clients (React, React Native, Spring Boot, PostgreSQL); helped reach **Cluster 5**, the top tier of the Brazilian junior enterprise ranking |
 
-<h3 align="left">Experience</h3>
+## 🛠️ Tech stack
 
-###
+**Languages**
 
-<ul>
-  <li><b>Mobile Developer Intern @ ASTRAL</b> (Nov 2025 – Jan 2026): built a React Native app for the construction industry that cut on-site progress reporting time by 92%.</li>
-  <li><b>Full-Stack Developer @ CATI Jr.</b> (Sep 2024 – Nov 2025): delivered web and mobile apps for external clients with React, React Native, Spring Boot and PostgreSQL, and helped take the junior enterprise to Cluster 5, the highest tier in the Brazilian junior enterprise ranking.</li>
-  <li><b>AWS Student Builder – Campus Leader</b> (Apr 2026 – Oct 2026): one of 200 students selected nationwide; ran hands-on cloud workshops (EC2, S3, IAM, Lambda) at UFSCar.</li>
-</ul>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" title="C++" />
+</p>
 
-###
+**Frontend**
 
-<h3 align="left">Programming Languages</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS" title="CSS" />
+</p>
 
-###
+**Backend**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" alt="NestJS" title="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" title="PostgreSQL" />
+</p>
 
-###
+**DevOps & Tools**
 
-<h3 align="left">Frontend</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" alt="AWS" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="32" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" title="Linux" />
+</p>
 
-###
+## 📊 Most used languages
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">Backend</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-</div>
-
-###
-
-<h3 align="left">Other technologies</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<h3 align="left">Most Used Languages</h3>
-
-###
-
-<div align="left">
-  <img src="./profile/top-langs.svg" alt="most used languages" />
-</div>
-
-###
+<img src="./profile/top-langs.svg" alt="Most used languages" />
