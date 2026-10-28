@@ -99,3 +99,13 @@
 </div>
 
 ###
+
+<h3 align="left">Most Used Languages</h3>
+
+###
+
+<div align="left">
+  <img src="./profile/top-langs.svg" alt="most used languages" />
+</div>
+
+###
